@@ -4228,6 +4228,37 @@ input[type="button"].btn-block {
     padding: 0.75rem 1.25rem;
     color: inherit; }
 
+    @media screen and (max-width: 480px) {
+      .myCart {
+        margin-left: -40px !important;
+      }
+      .myCart2 {
+        margin-top: -140px;
+        margin-left: 140px !important;
+      }
+      .myCart3 {
+        margin-left: -60px !important;
+      }
+      .myCart4 {
+        margin-top: -140px;
+        margin-left: 150px !important;
+      }
+      .myCart5 {
+        margin-left: -40px !important;
+      }
+      .myCart6 {
+        margin-top: -140px;
+        margin-left: 140px !important;
+      }
+      .myCart7 {
+        margin-left: -60px !important;
+      }
+      .myCart8 {
+        margin-top: -140px;
+        margin-left: 140px !important;
+      }
+    }
+
 .alert-primary {
   color: #004085;
   background-color: #cce5ff;
